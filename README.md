@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer with solid experience in Python and JavaScript 🇦🇷</h3>  
   
 - 🔭 I’m currently working on [CoderHouse](https://coderhouse.com)  
-- 🌱 I’m currently learning **SpringBoot, Laravel, SO Architectures**  
+- 🌱 Improving my skills in Spring Boot, Laravel, Software Architectures, Scrum, Agile Methodologies and Design Patterns
 - 📫 Email **estebanhirzfeld@gmail.com**
 - 👨‍💻 All of my projects are available at [https://estebanhirzfeld-portfolio.netlify.app](https://estebanhirzfeld-portfolio.netlify.app)  
   
