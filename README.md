@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Steven Hirzfeld</h1>  
-<h3 align="center">Full-Stack Developer with solid experience in Python and JavaScript 🇦🇷</h3>  
-  
+<h3 align="center">Backend-Focused Software Engineer with Strong Foundations in Design Patterns & Agile Practices 🇦🇷</h3>
+
 - 🔭 I’m currently working on [CoderHouse](https://coderhouse.com)  
 - 🌱 Improving my skills in Spring Boot, Laravel, Software Architectures, Scrum, Agile Methodologies and Design Patterns
 - 📫 Email **estebanhirzfeld@gmail.com**
