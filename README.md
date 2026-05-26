@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Steven Hirzfeld</h1>  
 <h3 align="center">Backend-Focused Software Engineer with Strong Foundations in Design Patterns & Agile Practices 🇦🇷</h3>
 
-- 🔭 I’m currently working on [CoderHouse](https://coderhouse.com)  
+- 🔭 I’m currently working on [Neored]([https://coderhouse.com](https://www.neored.com.ar/))  
 - 🌱 Improving my skills in Spring Boot, Laravel, Software Architectures, Scrum, Agile Methodologies and Design Patterns
 - 📫 Email **estebanhirzfeld@gmail.com**
 - 👨‍💻 All of my projects are available at [https://estebanhirzfeld-portfolio.netlify.app](https://estebanhirzfeld-portfolio.netlify.app)  
