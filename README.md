@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [Neored](https://www.neored.com.ar/)
 - 🌱 Improving my skills in Spring Boot, Laravel, Software Architectures, Scrum, Agile Methodologies and Design Patterns
 - 📫 Email **estebanhirzfeld@gmail.com**
-- 👨‍💻 All of my projects are available at [https://estebanhirzfeld-portfolio.netlify.app](https://estebanhirzfeld-portfolio.netlify.app)  
+- 👨‍💻 All of my projects are available at [https://estebanhirzfeld-portfolio.netlify.app](https://estebanhirzfeld-portfolio.netlify.app/en)  
   
   
 <h3 align="left">Languages and Tools I have used throughout my career:</h3>  
